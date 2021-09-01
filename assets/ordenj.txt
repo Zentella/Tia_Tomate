@@ -9,6 +9,7 @@
 @import 'base/reset';
 @import 'base/typography';
 
+@import 'layout/main-section';
 @import 'layout/navigation';
 @import 'layout/grid';
 @import 'layout/header';
